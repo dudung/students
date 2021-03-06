@@ -1,5 +1,5 @@
 # students
-Thesis of my students
+List of my students
 
 
 ## current

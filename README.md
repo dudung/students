@@ -8,3 +8,4 @@ Thesis of my students
 + [20220304 Septian Ulan Dini](current/20220304-septian-ulan-dini/README.md)
 + [20920001 Sevi Nurafni](current/20920001-sevi-nurafni/README.md)
 + [20920007 Alya Mutiara Firdausyi](current/20920007-alya-mutiara-firdausyi/README.md)
+

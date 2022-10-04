@@ -11,6 +11,7 @@ List of my students
 ## graduated
 + `2022 Apr` 20219014 Alfikri Dwi Mauluda
 + `2021 Oct` [10217052 Nazla Innaya](https://github.com/NazlaInnaya95)[.](current/10217052-nazla-innaya/README.md)
++ `2021 Jul` 10216084 Muhamad Zia Pratama Hernawan
 + `2021 Jul` 10216055 Zaky Rayadhi
 + `2021 Jul` 10216052 Muhammad Zaahid Alkindi
 + `2021 Apr` [10216058 Hoshea](https://github.com/hoshea314)[.](graduated/10216058-hoshea/README.md)

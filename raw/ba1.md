@@ -1,5 +1,5 @@
-# BA1
-Rekayasa Pertanian S1
+# ba1
+rekayasa pertanian s1
 
 
 ## 2018-2

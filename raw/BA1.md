@@ -5,14 +5,14 @@ Rekayasa Pertanian S1
 ## 2018-2
 11415010 \
 Mureen Dengganni Samosir \
-Kuantifikasi Pertumbuhan Kedelai (Glycine max L.) var. Anjasmoro Berdasarkan Prosedur Penanaman BALITKABI Melalui Parameter Fisiologis \
+Kuantifikasi Pertumbuhan Kedelai (Glycine max L.) var. Anjasmoro Berdasarkan Prosedur Penanaman Balitkabi melalui Parameter Fisiologis \
 Prof. Dr. Pingkan Aditiawati, MS; Dr.rer.nat. Sparisoma Viridi, S.Si. \
 2018-2 \
 https://digilib.itb.ac.id/gdl/view/43540
 
 11415011 \
 Resi Rostiani \
-Kuantifikasi Kebutuhan Air dan Nilai Koefisien Tanaman Kedelai (Glycine max (L.)) Varietas Anjasmoro Selama Proses Budidaya di ITB Jatinangor \
+Kuantifikasi Kebutuhan Air dan Nilai Koefisien Tanaman Kedelai (Glycine max (L.)) Varietas Anjasmoro selama Proses Budidaya di ITB Jatinangor \
 Prof. Dr. Pingkan Aditiawati, MS; Dr.rer.nat. Sparisoma Viridi, S.Si. \
 2018-2 \
 https://digilib.itb.ac.id/gdl/view/43028
